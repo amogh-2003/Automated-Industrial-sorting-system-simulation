@@ -68,7 +68,7 @@ Together, these tools allowed us to **blend logic, visualization, and data monit
 ## 🧠 Flow Diagram
 
 The working of the simulation follows a **clear pipeline**:
-![FLOW]flow.jpg
+![FLOW](https://github.com/amogh-2003/Automated-Industrial-sorting-system-simulation/blob/main/flow.jpg)
 
 ## 👥 Team & Roles  
 This project was a **collaborative success**, with each member contributing their expertise:  
