@@ -127,7 +127,7 @@ The simulation produced **realistic and interactive results**:
 
 Based on WEIGHT:
 
-![Base on Weight](https://github.com/ACUBIQ/Pygame/blob/3dd30fed8b7cce92fc5b77755e6043a5f879542a/output%20based%20on%20weight.png)
+![Base on Weight](https://github.com/amogh-2003/Automated-Industrial-sorting-system-simulation/blob/main/weight.jpg))
 
 Based on COLOR:
 
