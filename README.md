@@ -125,23 +125,14 @@ The simulation produced **realistic and interactive results**:
 
 📷 **Screenshots:** 
 
-Based on WEIGHT:
 
-![Base on Weight](https://github.com/amogh-2003/Automated-Industrial-sorting-system-simulation/blob/main/weight.jpg))
-
-Based on COLOR:
-
-![Base on Color](https://github.com/ACUBIQ/Pygame/blob/3dd30fed8b7cce92fc5b77755e6043a5f879542a/output%20based%20on%20color.png)
-
-Based on SIZE:
-
-![Base on Size](https://github.com/ACUBIQ/Pygame/blob/3dd30fed8b7cce92fc5b77755e6043a5f879542a/output%20based%20on%20size.png)
+![Base on Weight](https://github.com/amogh-2003/Automated-Industrial-sorting-system-simulation/blob/main/weight.jp
 
 ---
 
 ## 📊 Results  
 
-Our simulation achieved **100% accuracy** in sorting packages within the virtual environment.  
+Our simulation achieved **85% accuracy** in sorting packages within the virtual environment.  
 
 ✔ **Conveyor Belt** → Smooth & continuous flow  
 ✔ **Sensors** → Correctly detected Weight / Color / Size attributes  
