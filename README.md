@@ -24,10 +24,6 @@ It demonstrates how packages can be **detected, classified, and sorted** automat
 
 ---
 
-## Demo Video
-    
-![Demo ](https://github.com/ACUBIQ/Pygame/blob/74533cd86d054685d0b3e4a285902a2ea5580dd3/Conveyor%20Sorting%20Simulation.gif)
-
 ---
 
 ## Installation, Usage & Documentation 
@@ -123,10 +119,6 @@ The simulation produced **realistic and interactive results**:
 - Every event stored in `system.log` 📑 for debugging & traceability. 
 
 
-📷 **Screenshots:** 
-
-
-![Base on Weight](https://github.com/amogh-2003/Automated-Industrial-sorting-system-simulation/blob/main/weight.jp
 
 ---
 
@@ -141,9 +133,6 @@ Our simulation achieved **85% accuracy** in sorting packages within the virtual 
 ✔ **HUD** → Updated live with accurate statistics  
 ✔ **Logging** → Captured all major events for debugging  
 ✔ **Overall Performance** → Robust, interactive, visually appealing  
-
-**Simulation video output:![simulation](https://github.com/ACUBIQ/Pygame/blob/bf4b5242372a150ea0e5a717871c878964e47d97/Conveyor%20Sorting%20Simulation.mp4)
-*
 
 ---
 
