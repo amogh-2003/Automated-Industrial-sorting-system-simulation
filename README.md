@@ -34,7 +34,7 @@ It demonstrates how packages can be **detected, classified, and sorted** automat
 
 ```bash
 # 1️⃣ Clone the Repository
-git clone https://github.com/Prabhudev2004/Pygame.git
+git clone https://github.com/amogh-2003/Pygame.git
 cd Pygame
 
 # 2️⃣ Install Dependencies
@@ -68,7 +68,7 @@ Together, these tools allowed us to **blend logic, visualization, and data monit
 ## 🧠 Flow Diagram
 
 The working of the simulation follows a **clear pipeline**:
-![FLOW](![WhatsApp Image 2025-09-25 at 20 48 36_acfe31ec](https://github.com/user-attachments/assets/42a79741-c5c4-4c59-993c-f8ff58ed64d0)
+![FLOW]([WhatsApp Image 2025-09-25 at 20 48 36_acfe31ec](https://github.com/user-attachments/assets/42a79741-c5c4-4c59-993c-f8ff58ed64d0))
 
 
 ---
